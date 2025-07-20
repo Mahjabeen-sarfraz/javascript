@@ -9,7 +9,6 @@ console.log("Hello Github")
 sum()
 
 function sum() {
-
     if (true) {
         let num = 30
         var num2 = 70
@@ -19,8 +18,6 @@ function sum() {
     }
     console.log(num2, "num2 from")
 }
-
-
 
 
 // if (num > 0) {
@@ -33,3 +30,5 @@ function sum() {
 
 console.log(abc)
 var abc = "abc"
+
+
