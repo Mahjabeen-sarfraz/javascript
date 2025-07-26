@@ -26,9 +26,9 @@ function sum() {
 // }
 
 
-
-
 console.log(abc)
 var abc = "abc"
+
+
 
 
